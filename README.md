@@ -28,31 +28,35 @@ This project is a simple web-based **Student Enrollment Form** that allows users
   - Save, Update, Reset functionality
   - JsonPowerDB integration
 
- ## 🖼️ Illustrations
-> ![Form Screenshot](https://via.placeholder.com/800x300.png?text=Form+UI+Screenshot)  
+ ## Illustrations
+ ![Screenshot 2025-06-08 211522](https://github.com/user-attachments/assets/38091359-c74f-48e9-8969-fe957a665637)
+
 > *Illustration of the student enrollment form layout*
 
-## 🔍 Scope of Functionalities
+## Scope of Functionalities
 - Enter new student data and store it in JsonPowerDB.
+  
 - Check if a student already exists by ID.
+  
 - Update existing student data.
+  
 - Reset form fields.
 
-## 🚀 Examples of Use
+## Examples of Use
 1. Fill in the student details in the form.
 2. Click "Save" – Adds a new student record.
 3. Enter an existing ID – Shows alert if already exists.
 4. Edit data and click "Update" – Modifies the existing record.
 
-## ✅ Project Status
+## Project Status
 - Completed and functional ✅
 - Not deployed online yet ❌ (can be deployed using GitHub Pages or Netlify)
 
-## 📚 Sources
+## Sources
 - [JsonPowerDB Official Site](https://login2explore.com/jpdb)
 - [jQuery](https://jquery.com/)
 - [Bootstrap 3](https://getbootstrap.com/docs/3.4/)
 
-## ℹ️ Other Information
+## Other Information
 - Developed as a micro-project for database integration and front-end development practice.
 - Tested with the sample JsonPowerDB API endpoint provided by login2explore.
