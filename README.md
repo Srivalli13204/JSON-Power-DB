@@ -29,24 +29,21 @@ This project is a simple web-based **Student Enrollment Form** that allows users
   - JsonPowerDB integration
 
  ## Illustrations
- ![Screenshot 2025-06-08 211522](https://github.com/user-attachments/assets/38091359-c74f-48e9-8969-fe957a665637)
-
+ ![Screenshot 2025-06-08 210704](https://github.com/user-attachments/assets/05a2b323-18cb-475b-8bea-0adc7ee8b44c)
 > *Illustration of the student enrollment form layout*
 
 ## Scope of Functionalities
 - Enter new student data and store it in JsonPowerDB.
-  
+  ![Screenshot 2025-06-08 211522](https://github.com/user-attachments/assets/10f57033-7b3d-409e-b9d4-e503fc5c71a5)
 - Check if a student already exists by ID.
-  
 - Update existing student data.
-  
 - Reset form fields.
 
 ## Examples of Use
-1. Fill in the student details in the form.
-2. Click "Save" – Adds a new student record.
-3. Enter an existing ID – Shows alert if already exists.
-4. Edit data and click "Update" – Modifies the existing record.
+1. Fill in the student details in the form. ![Screenshot 2025-06-08 210819](https://github.com/user-attachments/assets/a4240e03-0ed9-4a84-9c10-129989b38ab4)
+2. Click "Save" – Adds a new student record. ![Screenshot 2025-06-08 210903](https://github.com/user-attachments/assets/2b9b7448-3b58-4a1d-b08e-9d6bb1346706)
+3. Enter an existing ID – Shows alert if already exists. ![Screenshot 2025-06-08 210835](https://github.com/user-attachments/assets/f244644d-3cf3-42df-9fec-2f87de267b94)
+4. Edit data and click "Update" – Modifies the existing record. ![Screenshot 2025-06-08 210850](https://github.com/user-attachments/assets/b3edb223-098b-45a2-b100-1f3a5104f894)
 
 ## Project Status
 - Completed and functional ✅
