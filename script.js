@@ -1,5 +1,5 @@
 var baseURL = "http://api.login2explore.com:5577";
-var connToken = "90934578|-31949213623345877|90956656";
+var connToken = "your-connection-token";
 var dbName = "SCHOOL-DB";
 var relationName = "STUDENT-TABLE";
 var jpdbirl = "/api/irl";
